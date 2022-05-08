@@ -7,6 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BodyComponent implements OnInit {
 
+  public resume={
+    nom:'MODOU',
+    prenom:'GUEYE',
+    email: 'doumogueye.mg@gmail.com',
+    phone:'0629155960',
+    contry: 'Maroc',
+    statut:'frontend developper',
+    adresse:'casablanca Maroc , Sidi Marouf Quartier Mostakbal',
+  }
   constructor() { }
 
   ngOnInit(): void {

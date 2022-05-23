@@ -12,6 +12,7 @@ const routes: Routes = [
 {path:'experiences', component:ExperiencesComponent},
 {path:'formations', component:FormationsComponent},
 {path:'body', component:BodyComponent},
+{path:'', component:BodyComponent},
 
 
 

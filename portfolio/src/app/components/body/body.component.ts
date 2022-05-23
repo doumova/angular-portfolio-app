@@ -13,7 +13,7 @@ export class BodyComponent implements OnInit {
     email: 'doumogueye.mg@gmail.com',
     phone:'0629155960',
     contry: 'Maroc',
-    statut:'frontend developper',
+    statut:'Angular - FullStack - developper',
     adresse:'casablanca Maroc , Sidi Marouf Quartier Mostakbal',
   }
   constructor() { }
